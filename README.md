@@ -27,7 +27,7 @@ Ubuntu, Debian, CentOS, RedHat
 ## Учебные проекты:
 | Название                                                     | Описание                                            | Стек                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Проекты Яндекс.Практикум](https://github.com/sergey-vg/yandex-practicum-projects) | Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Специалист по Data Science плюс".|Numpy, Pandas, Seaborn, Matplotlib, Optuna, Tensorflow, Pytorch, Keras, Sqlalchemy, SciPy, Statsmodels, XGBoost, CatBoost, LightGBM, Scikit-learn, Featuretools и д.р.|
+| [Яндекс.Практикум](https://github.com/sergey-vg/yandex-practicum-projects) | Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Специалист по Data Science плюс".|Numpy, Pandas, Seaborn, Matplotlib, Optuna, Tensorflow, Pytorch, Keras, Sqlalchemy, SciPy, Statsmodels, XGBoost, CatBoost, LightGBM, Scikit-learn, Featuretools и д.р.|
 
 ## Повышение квалификации, курсы:
 | Название | Учебное заведение| Год окончания |
