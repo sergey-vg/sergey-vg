@@ -53,8 +53,8 @@ Ubuntu, Debian, CentOS, RedHat, Windows (WSL, PowerShell, Windows Server)
 
 | Курс | Описание | Стек |
 |------|----------|------|
-| [Python-разработчик (Практикум)](https://github.com/sergey-vg/yandex-python-course) | Проекты: реализация REST API, авторизация, работа с PostgreSQL, деплой через Docker, CI/CD. | Python, Django, DRF, PostgreSQL, Docker, GitHub Actions |
-| [Специалист по Data Science (Практикум)](https://github.com/sergey-vg/yandex-ds-course) | 18 учебных проектов: от предобработки до продвинутых моделей ML/DL. | Pandas, Sklearn, TensorFlow, CatBoost, Optuna и др. |
+| [Python-разработчик](https://github.com/sergey-vg/yandex-python-course) | Проекты: реализация REST API, авторизация, работа с PostgreSQL, деплой через Docker, CI/CD. | Python, Django, DRF, PostgreSQL, Docker, GitHub Actions |
+| [Специалист по Data Science](https://github.com/sergey-vg/yandex-ds-course) | 18 учебных проектов: от предобработки до продвинутых моделей ML/DL. | Pandas, Sklearn, TensorFlow, CatBoost, Optuna и др. |
 
 ## Повышение квалификации, курсы:
 | Название | Учебное заведение| Год окончания |
