@@ -14,15 +14,36 @@ Python‑разработчик с сильным IT-бэкграундом (15+
 
 ## 🛠 Стек
 
-**Backend:** Django, Django REST Framework, Flask, FastAPI  
-**Языки:** Python (основной), C/C++, C#, Delphi, VBA  
-**Базы данных:** PostgreSQL, SQLite, MySQL, SQLAlchemy  
-**Инфраструктура:** Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions  
-**Тестирование:** Pytest, Coverage  
-**ML/DS:** Pandas, Scikit-learn, CatBoost, XGBoost, LightGBM, Optuna  
-**DL:** TensorFlow, PyTorch, Keras  
-**Визуализация:** Matplotlib, Seaborn  
-**ОС:** Ubuntu, Debian, CentOS, RedHat
+**Языки и парадигмы:**  
+Python (основной), C/C++, C#, Delphi, VBA, Bash  
+ООП, SOLID, REST
+
+**Backend и API:**  
+Django, Django REST Framework, Flask, FastAPI
+
+**Базы данных:**  
+PostgreSQL, SQLite, MySQL, SQLAlchemy
+
+**DevOps и инструменты:**  
+Docker, Docker Compose, Git, GitHub, CI/CD (GitHub Actions), VMware NSX, Bash, PowerShell, VirtualBox
+
+**Web-инфраструктура:**  
+Nginx, Gunicorn, WSL, Windows Server
+
+**Тестирование:**  
+Pytest, Coverage, unittest
+
+**ML / DS:**  
+Pandas, NumPy, Scikit-learn, CatBoost, XGBoost, LightGBM, Optuna, SQLAlchemy
+
+**DL:**  
+TensorFlow, PyTorch, Keras
+
+**Визуализация:**  
+Matplotlib, Seaborn
+
+**Операционные системы:**  
+Ubuntu, Debian, CentOS, RedHat, Windows (WSL, PowerShell, Windows Server)
 
 ---
 
@@ -53,6 +74,7 @@ Python‑разработчик с сильным IT-бэкграундом (15+
 | "Поколение Python": курс для начинающих | Stepik | 2022 |
 | Основы статистики | Stepik, Bionformatics Institute | 2022 |
 | Финансовые рынки и институты | Высшая школа экономики | 2019 |
+| VMware NSX: Сетевая виртуализация и безопасность | VMware Летняя Академия | 2017 |
 
 ---
 
