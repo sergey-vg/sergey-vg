@@ -67,3 +67,5 @@ Ubuntu, Debian, CentOS, RedHat, Windows (WSL, PowerShell, Windows Server)
 | Основы статистики | Stepik, Bionformatics Institute | 2022 |
 | Финансовые рынки и институты | Высшая школа экономики | 2019 |
 | VMware NSX: Сетевая виртуализация и безопасность | VMware Летняя Академия | 2017 |
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sergey-vg)
